@@ -20,5 +20,5 @@ router.post(
 router.put("/:id", c.updateAnnouncement)
 router.put("/:id/read", c.markAsRead)
 router.delete("/:id", c.deleteAnnouncement)
-
+ 
 module.exports = router
