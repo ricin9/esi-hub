@@ -209,4 +209,3 @@ module.exports = {
 	deleteAnnouncement,
 	markAsRead,
 }
-//this is a comment
