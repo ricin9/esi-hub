@@ -6,4 +6,4 @@ rest-client
 *.rest
 uploads
 db.json
-dist
+dist_nuts
